@@ -10,7 +10,6 @@ Thomas Kaufmanas, Eindhoven, 2025
 - print_watcher.py: Script for printing kinetic captures with dymo label printer
 - /Documentation: Photos and strucutal plans
 
-
 Version History:
 - Sketch01.toe: Track XY of index finger tips
 - Sketch02.toe: Track pinchpoints (thumb/indx finger), export XY
@@ -30,3 +29,6 @@ Version History:
 - Sketch18.toe: Added label export + full res export
 - Sketch19.toe: Update label pipeline
 - MakingMotion.Toe: Script optimization and general cleanup
+
+![Exposition Design](https://github.com/user-attachments/assets/5b1a6f08-eb2b-4cac-abf0-9e9dcc71bad4)
+
