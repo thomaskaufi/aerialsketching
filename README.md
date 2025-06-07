@@ -8,26 +8,25 @@ Thomas Kaufmanas, Eindhoven, 2025
 ## Contents
 - MakingMotion.toe: Main Touchdesigner script for running Aerial Sketching
 - print_watcher.py: Script for printing kinetic captures with dymo label printer
-- /Sketches: Earlier iterations
 - /Documentation: Photos and strucutal plans
 
 
 Version History:
-- Sketch 01: Track XY of index finger tips
-- Sketch 02: Track pinchpoints (thumb/indx finger), export XY
-- Sketch 03: Link pinchpoints to winch, add smoothing
-- Sketch 04: Map to three winches (left/right average)
-- Sketch 05: Cursor-style pinchpoints 
-- Sketch 06: Added cases (0, 1 or 2 hands present)
-- Sketch 07: Added GUI
-- Sketch 10: Rebuild data-path of landmarks
-- Sketch 11: Added mid-winch tilt (wrist-index finger distance)
-- Sketch 12: Added Smoothing (liveliness) from hand distance
-- Sketch 13: Added Sampling. Rebuild GUI for perform-mode
-- Sketch 14: Remove hand-distance smoothing. Rebuild mid-winch tilt (from z-distance),
-- Sketch 15: Update Indexing sampler through range slider
-- Sketch 16: Added point cloud from sample data
-- Sketch 17: Update point cloud (kinetic capture)
-- Sketch 18: Added label export + full res export
-- Sketch 19: Update label pipeline
-- Sketch 20: Script optimization and general cleanup
+- Sketch01.toe: Track XY of index finger tips
+- Sketch02.toe: Track pinchpoints (thumb/indx finger), export XY
+- Sketch03.toe: Link pinchpoints to winch, add smoothing
+- Sketch04.toe: Map to three winches (left/right average)
+- Sketch05.toe: Cursor-style pinchpoints 
+- Sketch06.toe: Added cases (0, 1 or 2 hands present)
+- Sketch07.toe: Added GUI
+- Sketch10.toe: Rebuild data-path of landmarks
+- Sketch11.toe: Added mid-winch tilt (wrist-index finger distance)
+- Sketch12.toe: Added Smoothing (liveliness) from hand distance
+- Sketch13.toe: Added Sampling. Rebuild GUI for perform-mode
+- Sketch14.toe: Remove hand-distance smoothing. Rebuild mid-winch tilt (from z-distance),
+- Sketch15.toe: Update Indexing sampler through range slider
+- Sketch16.toe: Added point cloud from sample data
+- Sketch17.toe: Update point cloud (kinetic capture)
+- Sketch18.toe: Added label export + full res export
+- Sketch19.toe: Update label pipeline
+- MakingMotion.Toe: Script optimization and general cleanup
